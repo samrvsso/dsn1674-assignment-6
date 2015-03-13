@@ -1,0 +1,63 @@
+html {
+  box-sizing: border-box;
+}
+
+.robot {
+  padding: 6em;
+  position: relative;
+  width: 320px;
+  margin: 0 auto;
+  padding-bottom: 0;
+}
+
+.robot-body {
+  width: 320px;
+}
+
+.robot-brain {
+  width: 46px;
+  position: absolute;
+  right: 50%;
+  top: 3em;
+  right: 45%;
+}
+
+.robot-head-right {
+  width: 125px;
+  position: absolute;
+  top: 3em;
+  right: 26%;
+}
+
+ .robot-head-left {
+  width: 125px;
+  position: absolute;
+  top: 3em;
+  right: 50%;
+}
+
+div {
+  background-color: #2c3950;
+  margin: 0;
+}
+
+.exterminate {
+  margin: 0;
+  color: white;
+  text-align: center;
+  padding-top: 0;
+}
+
+h1 {
+  margin: 0;
+  padding: 1em;
+  background-color: #1a2230;
+}
+
+img {
+  display: block;
+}
+
+body {
+  margin :0;
+}
